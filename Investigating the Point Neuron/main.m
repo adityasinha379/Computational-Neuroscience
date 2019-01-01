@@ -1,4 +1,4 @@
-function Project2
+function main
 close all;
 
 %
